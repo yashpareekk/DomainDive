@@ -1,5 +1,5 @@
 import React from 'react';
-import './NameCard.css';
+import './Namecard.css'
 
 const nameCheapUrl = 
 "https://www.namecheap.com/domains/registration/results/?domain=";
